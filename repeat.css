@@ -10,7 +10,7 @@ body {
     background: #000;
 }
 .background {
-    background: url(/images/neon\ wallpaper.jpg) no-repeat;
+    background: url(../images/neon wallpaper.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -254,4 +254,5 @@ body {
 .remember-password a:hover{
     text-decoration: underline;
 }
+
 /* LOGIN SECTION ENDED */
