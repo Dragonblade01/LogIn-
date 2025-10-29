@@ -17,7 +17,6 @@ body{
     background-size:cover;
     height: 100vh;
     width: 100%;
-    filter: blur(10px);
 }
 /* NAVBAR ENDED UP */
 .header{
@@ -293,4 +292,5 @@ body{
     text-decoration: underline;
 
 }
+
 
