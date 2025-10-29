@@ -10,7 +10,7 @@ body {
     background: #000;
 }
 .background {
-    background: url(../neon wallpaper.jpg) no-repeat;
+    background: url(..images/wallpaper.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -256,4 +256,5 @@ body {
 }
 
 /* LOGIN SECTION ENDED */
+
 
