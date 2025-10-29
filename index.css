@@ -12,7 +12,7 @@ body{
   
 }
 .background{
-    background: url(/images/neon\ wallpaper.jpg) no-repeat;
+    background: url(./images/wallpaper.jpg) no-repeat;
     background-position: center;
     background-size:cover ;
     height: 100vh;
@@ -291,4 +291,5 @@ body{
 }
 .create-account p a:hover{
     text-decoration: underline;
+
 }
